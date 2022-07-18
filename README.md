@@ -9,7 +9,7 @@
 - 🚀 Tengo 14 años y soy de Perú
 - 💖 Master Noni ripeo, pero sigo haciendo bots xd
 - 🪐 Puedo hacer una página con HTML, CSS y JS
-- 📺 Hago videos para YouTube
+- 📺 Hago videos para YouTube (pero son de gamplay)
 - 🛖 Tengo un [servidor de Discord](https://discord.gg/NVv7efyZEk) por si les interesa entrar :)
 - ⚛️ ¡Aprendí React! nwn.
 - 🙊 Hablo más por chat que en IRL
