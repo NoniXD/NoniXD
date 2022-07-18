@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>¡Hola!, soy drgato 🐈</b></h1>
+  <h1 align="center"><b>¡Hola!, soy Noni 😎</b></h1>
 </p>
 
 ## Sobre mí
@@ -29,28 +29,5 @@
 <img alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" /><img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />  
 <div/>
   
-## Videos
 
-- [Como hostear tu bot de Discord en Heroku sin GitHub (v2)](https://www.youtube.com/watch?v=QRm-FarG3SI)
-- [#9 Copias de seguridad | djs v13 + TypeScript](https://www.youtube.com/watch?v=wBToMz3nueY)
-- [#8 Sistema de conteo | djs v13 + TypeScript](https://www.youtube.com/watch?v=UPWtCi99AvA)
-- [Command + Event Handler para Discord.js v13 en JAVASCRIPT](https://www.youtube.com/watch?v=C5hASKhdLIE)
-- [#7 Modals/formularios en Discord | djs v13 + TypeScript](https://www.youtube.com/watch?v=NGnKMoz5nmU)
-- [#6 Bienvenidas multiservidor | djs v13 + TypeScript](https://www.youtube.com/watch?v=TE_08wx_wx8)
 
-<!-- ### Hi there 👋 -->
-
-<!--
-**drgatoxd/drgatoxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
